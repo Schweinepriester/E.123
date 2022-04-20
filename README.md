@@ -1,1 +1,1 @@
-# ITU-T E.123 PSA
+# ITU E.123 PSA
