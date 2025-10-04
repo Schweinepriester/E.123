@@ -1,8 +1,15 @@
 # ITU E.123 Public service announcement
 
-**TL;DR**:  
-This is _the_ correct way to write telephone numbers:
-+22 607 123 4567
+Our different ways of writing telephone numbers can lead to confusion. That's why in 1988 ITU set an international notation standard format.
+
+This is **_the_** correct way to write telephone numbers:  
+**+22 607 123 4567**
+
+The following formats are therefore discouraged:
+- 0022 607 123 4567
+- +22 (0)607 123 4567
+- 0607 123 4567
+- 123 4567
 
 ## Context
 
